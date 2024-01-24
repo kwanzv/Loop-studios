@@ -1,5 +1,5 @@
 .hero {
-  background-image: url(https://i.ibb.co/3vw55Hv/image-hero.jpg);
+  background-image: url("https://i.ibb.co/3vw55Hv/image-hero.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 70vh;
